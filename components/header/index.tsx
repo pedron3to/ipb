@@ -2,6 +2,7 @@
 import Link from "next/link";
 import { Menu } from "../menu";
 import { MenuMobile } from "../menu/menuMobile";
+import Image from "next/image";
 
 const Header = () => {
   return (
@@ -14,9 +15,7 @@ const Header = () => {
     >
       <div className="flex items-center">
         <Link href="/">
-          <span className="font-bold text-white text-[20px] md:text-[32px]">
-            IPB Criciúma
-          </span>
+          <Image src="/logo.png" alt="logo" width={140} height={140} />
         </Link>
       </div>
       <nav className="hidden sm:block">
