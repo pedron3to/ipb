@@ -57,7 +57,7 @@ export function Menu() {
     <NavigationMenu>
       <NavigationMenuList>
         <NavigationMenuItem>
-          <Link href="/docs" legacyBehavior passHref>
+          <Link href="/sobre" legacyBehavior passHref>
             <NavigationMenuLink className={navigationMenuTriggerStyle()}>
               SOBRE
             </NavigationMenuLink>
