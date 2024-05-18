@@ -184,12 +184,12 @@ export default function Sobre() {
             Martha Davis Snodgrass (1791-1862), filha de um pastor
             presbiteriano. Ashbel era o mais novo de nove irmãos. Os irmãos
             homens (William, John, James, Thomas e Ashbel) costumavam
-            denominar-se os "quinque fratres" (cinco irmãos). Um deles, James
-            Snodgrass Simonton, quatro anos mais velho que Ashbel, viveu por
-            três anos no Brasil e foi professor na cidade de Vassouras, no Rio
-            de Janeiro. Uma das quatro irmãs, Elizabeth Wiggins Simonton
-            (1822-1879), conhecida como Lille, veio a casar-se com o Rev.
-            Alexander Latimer Blackford, vindo com ele para o Brasil.
+            denominar-se os &quot;quinque fratres&quot; (cinco irmãos). Um
+            deles, James Snodgrass Simonton, quatro anos mais velho que Ashbel,
+            viveu por três anos no Brasil e foi professor na cidade de
+            Vassouras, no Rio de Janeiro. Uma das quatro irmãs, Elizabeth
+            Wiggins Simonton (1822-1879), conhecida como Lille, veio a casar-se
+            com o Rev. Alexander Latimer Blackford, vindo com ele para o Brasil.
           </p>
         </div>
       </div>
