@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="flex flex-col justify-center items-start">
           <p className="text-sm font-light text-white">48 99999.9999 &nbsp;</p>
           <p className="text-sm font-light text-white">
-            R. Henrique Lage, 420 - Centro • Lriciúma - SC • 88801-010
+            R. Henrique Lage, 420 - Centro • Criciúma - SC • 88801-010
           </p>
         </div>
         <div className="flex justify-center">
