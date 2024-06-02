@@ -64,9 +64,9 @@ export function Menu() {
           </Link>
         </NavigationMenuItem>
         <NavigationMenuItem>
-          <Link href="/docs" legacyBehavior passHref>
+          <Link href="/pastor" legacyBehavior passHref>
             <NavigationMenuLink className={navigationMenuTriggerStyle()}>
-              CONTRIBUA
+              O PASTOR
             </NavigationMenuLink>
           </Link>
         </NavigationMenuItem>
