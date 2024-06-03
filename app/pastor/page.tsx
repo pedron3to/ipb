@@ -12,7 +12,7 @@ export default function Pastor() {
       <div className="mx-auto max-w-7xl ">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           <div className="flex  p-4 items-center justify-center">
-            <div className="md:hidden mb-4">
+            <div className="md:hidden mb-4 mt-4">
               <Image
                 src="/pastor.webp"
                 alt="Placeholder"
@@ -29,7 +29,7 @@ export default function Pastor() {
               />
             </div>
           </div>
-          <div className=" p-4 md:p-20 mb-8">
+          <div className="p-4 md:p-20 mb-8">
             <h2 className="text-lg md:text-3xl font-semibold my-2 md:my-8 text-[#4DA186]">
               Guilherme Andrade
             </h2>

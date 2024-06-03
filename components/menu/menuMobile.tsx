@@ -12,6 +12,7 @@ import {
   DrawerTrigger,
 } from "@/components/ui/drawer";
 import { Menu } from ".";
+import Link from "next/link";
 
 const data = [
   {
@@ -71,7 +72,14 @@ export function MenuMobile() {
         <DrawerContent>
           <div className="mx-auto w-full max-w-sm">
             <DrawerHeader>
-              <DrawerTitle>Menu</DrawerTitle>
+              <Link href="/sobre">
+                <DrawerTitle>SOBRE</DrawerTitle>
+              </Link>
+            </DrawerHeader>
+            <DrawerHeader>
+              <Link href="/pastor">
+                <DrawerTitle>O PASTOR</DrawerTitle>
+              </Link>
             </DrawerHeader>
             <div className="p-4 pb-0">
               <Menu />

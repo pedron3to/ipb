@@ -3,7 +3,7 @@ import React from "react";
 export default function Footer() {
   return (
     <div className="bg-[#181619] flex justify-center py-8">
-      <div className="grid grid-cols-3 gap-4 bg-[#181619] max-w-6xl w-full">
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-4 bg-[#181619] max-w-6xl w-full p-4">
         <div className="flex flex-col justify-center items-start">
           <p className="text-sm font-light text-white">48 99999.9999 &nbsp;</p>
           <p className="text-sm font-light text-white">
