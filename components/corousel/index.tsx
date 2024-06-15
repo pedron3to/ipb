@@ -3,27 +3,25 @@ import { Button } from "@/components/ui/button";
 
 const images = [
   {
-    imageUrl:
-      "https://source.unsplash.com/brown-rope-on-brown-wooden-post-GPVHlxJakao",
+    imageUrl: "/church1.jpg",
     headline: "Gather with us across our locations",
     buttonText: "Our gathering locations",
     title: "Gathering",
   },
   {
-    imageUrl:
-      "https://source.unsplash.com/group-of-people-waving-their-hands-6liebVeAfrY",
+    imageUrl: "/church2.jpg",
     headline: "Let Us Start",
     buttonText: "Let us start",
     title: "Let us start",
   },
   {
-    imageUrl: "https://source.unsplash.com/person-raising-arms-rzmQOng8h8I",
+    imageUrl: "/church3.jpg",
     headline: "Help us make a difference in the community",
     buttonText: "Our gathering locations",
     title: "Helping hands",
   },
   {
-    imageUrl: "https://source.unsplash.com/girl-reading-book-XqXJJhK-c08",
+    imageUrl: "/church4.jpg",
     headline: "Explore our Woman to Woman page",
     buttonText: "Keep updated with ",
     title: "Woman to woman",
